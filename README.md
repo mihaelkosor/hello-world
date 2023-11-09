@@ -1,18 +1,22 @@
-# Hello world - Dobrodošli!
-Ovo je moj testni GitHub repozitorij.
+# Dobrodošli na stranicu mog "hello-world" projekta!
 
-## Uvod u GitHub
+Ovaj projekt je pokrenut kao dio učenja i upoznavanja s osnovama rada na GitHubu. Kroz ovu stranicu, možete pratiti moj napredak i razvoj vještina u radu s Gitom i GitHubom.
 
-Ovdje će biti objavljen uvod u GitHub
+## Što možete očekivati?
 
-### Osnove commitanja
+Ovdje ćete naći osnovne informacije o projektu, kao i demonstraciju kako GitHub Pages može biti korišten za objavljivanje sadržaja na webu.
 
-Ovdje će biti osnove vezane za commitanje promjena
+## Ciljevi projekta:
 
-# Objava sadržaja uz pomoć GitHub Pages
+- Naučiti osnove Gita i GitHuba.
+- Stvoriti prvi repozitorij i upravljati granama.
+- Suraditi s kolegama koristeći pull zahtjeve i code reviews.
+- Objaviti projekt koristeći GitHub Pages.
 
-Ovdje će biti upute vezane za objavu sadržaja repozitorija na webu.
+Za više informacija o Gitu i GitHubu, posjetite [GitHub Docs](https://docs.github.com/).
 
-# Test datoteka
+## Pogledajte našu stranicu!
 
-[Poveznica na test.md datoteku](test.md)
+Projekt je živ i dostupan za pregled na: [mihaelkosor.github.io/hello-world](https://mihaelkosor.github.io/hello-world)
+
+Ova stranica će se ažurirati kako projekt napreduje. Povremeno se vratite kako biste vidjeli najnovije promjene i dodatke.
